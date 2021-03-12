@@ -1,0 +1,39 @@
+/target/
+/tmp/
+/acceptance/output/
+#/acceptance/node_modules/
+/client/build/
+/src/main/resources/static/
+!.mvn/wrapper/maven-wrapper.jar
+acceptance/yarn.lock
+artifacts/fritz.jar
+tmp/acceptance.log
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### VSCode History ###
+.history 
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+/acceptance/node_modules/
+/client/node_modules/
